@@ -1,0 +1,19 @@
+@font-face {
+    font-family: "CRK Font";
+    src: url(CRK.ttf);
+}
+
+body {
+    background-image: url(back.png);
+    background-size: 2000px;
+}
+
+#maint {
+    text-align: center;
+    font-family: 'CRK Font';
+}
+
+#abtme {
+    text-align: center;
+    font-family: 'CRK Font';
+}
